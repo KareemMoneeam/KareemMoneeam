@@ -11,6 +11,6 @@
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kareemmoneeam/)
 - Email: kareemmoneeam@outlook.com
 
-💻 Coding enthusiast with a passion for Embedded Software Engineering! 💡
+💻 Coding enthusiast with a passion for Embedded Systems! 💡
 
 Let's explore the world of bits and bytes together. 🌟
