@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Kareem Abd El-Moneam
 
-🎓 Senior IT Student at Cairo University, Faculty of Computers and Artificial Intelligence
+🎓 Graduate from Cairo University, Faculty of Computers and Artificial Intelligence
 
 🚀 Here's what you can expect from my GitHub profile:
 - A collection of personal projects and contributions to open-source repositories.
